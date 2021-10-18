@@ -1,4 +1,6 @@
 class ReviewsController < ApplicationController
+  before_action :authenticate_user!, only: [:create]
+
   def index
     @movie_shop = MovieShop.find(params[:movie_shop_id])
     @reviews = @movie_shop.reviews
