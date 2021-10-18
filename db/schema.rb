@@ -10,7 +10,13 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_10_18_052232) do
+ActiveRecord::Schema.define(version: 2021_10_18_055452) do
+
+  create_table "movie_shops", charset: "utf8", force: :cascade do |t|
+    t.string "name"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
 
   create_table "users", charset: "utf8", force: :cascade do |t|
     t.string "email", default: "", null: false

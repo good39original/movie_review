@@ -1,0 +1,2 @@
+class MovieShop < ApplicationRecord
+end
