@@ -1,5 +1,7 @@
 class ReviewsController < ApplicationController
   def index
+    @movie_shop = MovieShop.find(params[:movie_shop_id])
+    @reviews = @movie_shop.reviews
   end
 
   def create
