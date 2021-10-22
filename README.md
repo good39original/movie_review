@@ -1,6 +1,6 @@
 # アプリケーション名
 
-![画像名](cfe98d1d68e2a70c0f30123f697b22ee.png)
+cfe98d1d68e2a70c0f30123f697b22ee.png
 
 
 
