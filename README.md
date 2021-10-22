@@ -1,5 +1,5 @@
 # アプリケーション名
-![Movie Review TOP](https://gyazo.com/857824bb1ca7a5bfcbf8a84143006942)
+![Movie Review TOP](https://i.gyazo.com/58ab3546da2bf2c86df1ddff64313d42.png)
 
 
 
