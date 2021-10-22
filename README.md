@@ -1,6 +1,5 @@
 # アプリケーション名
-
-cfe98d1d68e2a70c0f30123f697b22ee.png
+![Movie Review TOP](https://gyazo.com/857824bb1ca7a5bfcbf8a84143006942)
 
 
 
