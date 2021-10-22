@@ -91,3 +91,9 @@ belongs_to :review
 | content            | string              |                                     |
 | score              | integer             | foreign_key: true, null:false       |
 
+# 開発環境
+- フロントエンド：HTML5/CSS(Bootstrap)/JavaScript
+- バックエンド：Ruby on Rails(6.0.0)/Ruby(2.1.4)/JavaScript
+- Linter：Rubocop
+- データベース：MySQL(5.6.50)/Sequel Pro
+- インフラ：Heroku
